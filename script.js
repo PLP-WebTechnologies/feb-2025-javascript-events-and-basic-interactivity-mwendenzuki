@@ -15,9 +15,9 @@ document.querySelectorAll(".tab").forEach((button) => {
 
 // Slideshow
 const images = [
-  "https://placehold.co/300x200?text=Cake",
-  "https://placehold.co/300x200?text=Cookie",
-  "https://placehold.co/300x200?text=Bread",
+  "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/7243524/pexels-photo-7243524.jpeg?auto=compress&cs=tinysrgb&w=300",
+  "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=300",
 ];
 let slideIndex = 0;
 
